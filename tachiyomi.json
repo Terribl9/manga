@@ -1,0 +1,45 @@
+{
+    "name": "Extensions Repository",
+    "version": 1,
+    "extensions": [
+        {
+            "name": "ReadManga",
+            "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
+            "version": "1.2.3",
+            "lang": "ru",
+            "sources": [
+                {
+                    "id": 1,
+                    "name": "ReadManga Source"
+                }
+            ],
+            "url": "https://zz.readmanga.io"
+        },
+        {
+            "name": "ReManga",
+            "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
+            "version": "2.0.1",
+            "lang": "ru",
+            "sources": [
+                {
+                    "id": 2,
+                    "name": "ReManga Source"
+                }
+            ],
+            "url": "https://remanga.org"
+        },
+        {
+            "name": "MangaX",
+            "pkg": "eu.kanade.tachiyomi.extension.en.mangax",
+            "version": "1.0.0",
+            "lang": "en",
+            "sources": [
+                {
+                    "id": 3,
+                    "name": "MangaX Source"
+                }
+            ],
+            "url": "https://example.com/mangax.apk"
+        }
+    ]
+}
